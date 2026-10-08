@@ -23,6 +23,10 @@ Open `index.html` directly, or serve the folder (recommended, needed for clipboa
 ```bash
 python -m http.server 5500
 ```
+ot
+```bash
+npx live-server
+```
 
 Then visit `http://localhost:5500/?to=Nama%20Tamu` — the `to` parameter fills the guest name on the cover and RSVP.
 Add `&demo` to start the countdown from the figures shown in the design (22d 15h 12m 33s); the real date
