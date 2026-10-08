@@ -23,7 +23,7 @@ Open `index.html` directly, or serve the folder (recommended, needed for clipboa
 ```bash
 python -m http.server 5500
 ```
-ot
+or
 ```bash
 npx live-server
 ```
